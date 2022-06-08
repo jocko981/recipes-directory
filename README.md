@@ -1,4 +1,5 @@
 This app is made with Firebase and it doesn't have auth.
+Check it out Live at: https://recipes-directory-app.web.app/ or at https://recipes-directory-app.firebaseapp.com/
 
 # Getting Started with Create React App
 
